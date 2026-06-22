@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color: palevioletred;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.even{
+    font-size: 24px;
+}
+#one{
+    color: blue;
+    font-size: 36px;
+}
+#two{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
